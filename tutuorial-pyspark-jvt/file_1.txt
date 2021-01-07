@@ -1,0 +1,4 @@
+ID|name|DOB|Gender|Age 
+1000|John Smith |01/01/2000|F|20
+2000|Jim McDonald |02/02/2020|M|25
+20|Jim McDonald|02/02/1999|M|25

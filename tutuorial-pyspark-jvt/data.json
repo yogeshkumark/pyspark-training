@@ -1,0 +1,23 @@
+[
+     {
+          "ID": "1000",
+          "name": "John Smith ",
+          "DOB": "01/01/2000",
+          "Gender": "F",
+          "Age": "20"
+     },
+     {
+          "ID": "2000",
+          "name": "Jim McDonald ",
+          "DOB": "02/02/2020",
+          "Gender": "M",
+          "Age": "25"
+     },
+     {
+          "ID": "20",
+          "name": "Jim McDonald",
+          "DOB": "02/02/1999",
+          "Gender": "M",
+          "Age": "25"
+     }
+]
